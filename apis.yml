@@ -39,7 +39,6 @@ apis:
   - name: Zen Quotes
     description: "Large collection of Zen quotes for inspiration"
     humanURL: https://zenquotes.io/
-    baseURL: https://zenquotes.io/
     tags:
       - Personality
     properties:
